@@ -6,3 +6,5 @@ questa frase invece è stata aggiunta su GitHub
 frase che poi viene aggiunta al mio repository con pull
 
 cambiamenti da locale che poi vanno su gitHub
+
+ora sto lavorando sul branch su GitHub chiamato secondaty
